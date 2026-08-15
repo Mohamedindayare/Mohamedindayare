@@ -1,7 +1,7 @@
 Hi, I’m Mohamed indayare, aspiring IT support based in London. Building hands-on home lab projects.
 # IT Support / Cybersecurity Portfolio
 
-Hi, I'm Mohamed Indayare, an aspiring IT Support professional based in London. I'm building hands-on home lab projects to develop practical skills in Windows, Active Directory, networking, Microsoft 365, hardware, and troubleshooting
+Hi, I'm Mohamed Indayare, an aspiring IT Support professional based in London.
 ---
 
 
