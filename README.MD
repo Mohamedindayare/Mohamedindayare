@@ -72,12 +72,17 @@ To secure an entry-level IT Support or SOC Analyst role where I can apply practi
 
 ---
 
-### Help Desk Simulation
+## IT Help Desk & Ticketing Lab
 
-- Resolved password reset issues
-- Troubleshot printers
-- Fixed Outlook and Teams issues
-- Diagnosed Wi-Fi problems
+I built a simulated IT Help Desk environment to practise first-line support.
+
+- Logged and categorised 20 support tickets
+- Assigned priority based on user impact
+- Troubleshot Windows, hardware, software and networking issues
+- Documented troubleshooting steps and resolutions
+- Practised escalation of unresolved issues
+
+**Evidence:** `IT_Help_Desk_Ticketing_Lab_20_Tickets.xlsx`
 
 ---
 
