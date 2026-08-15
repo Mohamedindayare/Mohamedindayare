@@ -1,31 +1,16 @@
 Hi, I’m Mohamed indayare, aspiring IT support based in London. Building hands-on home lab projects.
 # IT Support / Cybersecurity Portfolio
 
-Hi, I'm Mohamed Indayare, aspiring IT support based in London. Building hands-on home lab projects.
-
+Hi, I'm Mohamed Indayare, an aspiring IT Support professional based in London. I'm building hands-on home lab projects to develop practical skills in Windows, Active Directory, networking, Microsoft 365, hardware, and troubleshooting
 ---
 
-## About Me
-
-I am a recent graduate with a strong interest in technology and a passion for solving complex problems.
 
 I am currently building hands-on experience through home labs in:
 - IT support
 - System administration
 - Networking
 
-My goal is to transition into cybersecurity.
-
-I am particularly interested in starting my career in IT Support or a Security Operations Center (SOC) as a Tier 1 Analyst.
-
----
-
-## Objective
-
-To secure an entry-level IT Support or SOC Analyst role where I can apply practical skills in:
-- Windows administration
-- Networking
-- Troubleshooting
+My goal is to strong it fundamentals
 
 ---
 
