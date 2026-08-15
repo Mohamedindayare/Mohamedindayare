@@ -67,7 +67,7 @@ I built a simulated IT Help Desk environment to practise first-line support.
 - Documented troubleshooting steps and resolutions
 - Practised escalation of unresolved issues
 
-**Evidence:** [View the 20-ticket Help Desk Lab](./IT_Help_Desk_Ticketing_Lab_20_Tickets.xlsx)
+**Evidence:**  [View the completed 20-ticket Help Desk Lab](./IT-Help-Desk-Ticketing-Lab-20-Tickets.xlsx)
 
 ---
 
