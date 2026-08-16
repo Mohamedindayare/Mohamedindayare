@@ -55,7 +55,9 @@ I built a simulated IT Help Desk environment to practise first-line support.
 ---
 
 Network Troubleshooting Lab
+
 Project 01 — No Internet Connectivity
+
 Simulated a no-internet issue by disabling the Windows VM network adapter
 Used ipconfig /all and ping to investigate connectivity
 Identified the disabled Ethernet adapter as the cause
