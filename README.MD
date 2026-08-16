@@ -80,22 +80,23 @@ Re-enabled the adapter and verified connectivity with a successful ping
 
 ### Evidence
 
-**1. Problem**
+### Evidence
 
-[![Problem](./no%20internet%20problem.png)](./no%20internet%20problem.png)
+**1. Problem — Ethernet disabled**
 
-**2. Investigation**
+![Problem](./no%20internet%20problem.png)
 
-[![Investigation](./no%20internet%20problem%20check.png)](./no%20internet%20problem%20check.png)
+**2. Investigation — Connectivity test**
 
-**3. Fix**
+![Investigation](./no%20internet%20problem%20check.png)
 
-[![Fix](./no%20internet%20problem%20fix.png)](./no%20internet%20problem%20fix.png)
+**3. Fix — Adapter re-enabled**
 
-**4. Verification**
+![Fix](./no%20internet%20problem%20fix.png)
 
-[![Verification](./internet%20problem%20fixed.png)](./internet%20problem%20fixed.png)
----
+**4. Verification — Internet restored**
+
+![Verification](./internet%20problem%20fixed.png)
 
 ## Tools
 
