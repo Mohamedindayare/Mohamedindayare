@@ -71,12 +71,30 @@ I built a simulated IT Help Desk environment to practise first-line support.
 
 ---
 
-### Networking & Remote Support
+Network Troubleshooting Lab
+Project 01 — No Internet Connectivity
+Simulated a no-internet issue by disabling the Windows VM network adapter
+Used ipconfig /all and ping to investigate connectivity
+Identified the disabled Ethernet adapter as the cause
+Re-enabled the adapter and verified connectivity with a successful ping
 
-- Learned IP, DNS, DHCP, TCP/IP
-- Used Ping, Tracert, Nslookup
-- Practiced remote support with RDP
+### Evidence
 
+**1. Problem**
+
+[![Problem](./no%20internet%20problem.png)](./no%20internet%20problem.png)
+
+**2. Investigation**
+
+[![Investigation](./no%20internet%20problem%20check.png)](./no%20internet%20problem%20check.png)
+
+**3. Fix**
+
+[![Fix](./no%20internet%20problem%20fix.png)](./no%20internet%20problem%20fix.png)
+
+**4. Verification**
+
+[![Verification](./internet%20problem%20fixed.png)](./internet%20problem%20fixed.png)
 ---
 
 ## Tools
@@ -84,11 +102,6 @@ I built a simulated IT Help Desk environment to practise first-line support.
 ### Operating Systems
 - Windows 11
 - Windows Server
-
-### Networking
-- DNS
-- DHCP
-- TCP/IP
 
 ### Cloud
 - Microsoft 365
