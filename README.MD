@@ -5,24 +5,7 @@ Hi, I'm Mohamed Indayare, an aspiring IT Support professional based in London.
 ---
 
 
-I am currently building hands-on experience through home labs in:
-- IT support
-- System administration
-- Networking
-
-My goal is to strong it fundamentals
-
----
-
-## Skills & Projects
-
-| Skill | Associated Project |
-|------|------------------|
-| Active Directory & User Management | Active Directory Lab |
-| Windows 11 Administration | Windows Admin Lab |
-| Microsoft 365 Administration | M365 Lab |
-| Help Desk Troubleshooting | Help Desk Lab |
-| Networking & Remote Support | Networking Lab |
+I am currently building hands-on experience through home labs,my goal is to get strong it fundamentals
 
 ---
 
@@ -98,30 +81,4 @@ Re-enabled the adapter and verified connectivity with a successful ping
 
 ![Verification](./internet%20problem%20fixed.png)
 
-## Tools
 
-### Operating Systems
-- Windows 11
-- Windows Server
-
-### Cloud
-- Microsoft 365
-- Entra ID
-
----
-
-## Certifications
-
-- CompTIA A+ (Planned)
-- CompTIA Network+ (Planned)
-- CompTIA Security+ (Planned)
-
----
-
-## Projects
-
-- Active Directory Lab
-- Windows Admin Lab
-- M365 Lab
-- Help Desk Lab
-- Networking Lab
