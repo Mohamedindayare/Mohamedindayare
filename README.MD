@@ -11,33 +11,6 @@ I am currently building hands-on experience through home labs,my goal is to get 
 
 ## Home Lab Projects
 
-### Active Directory & Windows Server
-
-- Installed Windows Server
-- Configured Active Directory
-- Set up DNS and DHCP
-- Created users and groups
-- Applied Group Policy
-- Joined machines to domain
-
----
-
-### Windows 11 Administration
-
-- Installed Windows 11
-- Managed users and permissions
-- Used Task Manager and Event Viewer
-- Troubleshot system issues
-
----
-
-### Microsoft 365
-
-- Managed users in Admin Center
-- Used Entra ID (Azure AD)
-- Performed password resets
-- Enabled MFA
-
 ---
 
 ## IT Help Desk & Ticketing Lab
