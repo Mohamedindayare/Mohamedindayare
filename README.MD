@@ -37,5 +37,22 @@ Identified the disabled Ethernet adapter as the cause
 Re-enabled the adapter and verified connectivity with a successful ping
 
 
+### Evidence
+
+**1. Problem — Ethernet disabled**
+
+![Problem](./no%20internet%20problem.png)
+
+**2. Investigation — Connectivity test**
+
+![Investigation](./no%20internet%20problem%20check.png)
+
+**3. Fix — Adapter re-enabled**
+
+![Fix](./no%20internet%20problem%20fix.png)
+
+**4. Verification — Internet restored**
+
+![Verification](./internet%20problem%20fixed.png)
 
 
